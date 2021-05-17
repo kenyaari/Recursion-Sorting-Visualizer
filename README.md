@@ -1,2 +1,2 @@
 # Recursion-Sorting-Visualizer
-Gives an idea of how recursion can be used for sorting algorithms.
+Visualizes algorithms to understand their sort methods and corresponding run times.
